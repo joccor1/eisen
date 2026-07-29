@@ -31,7 +31,7 @@ elseif ($SourcePath) { $files = Get-Item -LiteralPath (Resolve-Path -LiteralPath
 else { throw 'Specify -SourcePath <file> or -All.' }
 
 foreach ($file in $files) {
-  $raw = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
+  $raw = [IO.File]::ReadAllText($file.FullName, [Text.UTF8Encoding]::new($false))
   $title = Get-Field $raw 'title'
   if (-not $title -and $raw -match '(?m)^#\s+(.+?)\s*$') { $title = $Matches[1].Trim() }
   if (-not $title) { $title = $file.BaseName }
