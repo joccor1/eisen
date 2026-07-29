@@ -1,0 +1,12 @@
+# Device-specific Obsidian workspace state.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+.env
+.env.*
+*.key
+*.pem
