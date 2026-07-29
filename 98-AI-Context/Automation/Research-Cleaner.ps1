@@ -44,6 +44,8 @@ foreach ($file in $files) {
   $hubs = ($topic.Hubs | ForEach-Object { "- [[04-Research/Topic-Hubs/$_]]" }) -join "`n"
   $links = ([regex]::Matches($raw, 'https?://[^\s\]\)<>]+') | ForEach-Object Value | Sort-Object -Unique | ForEach-Object { "- $_" }) -join "`n"
   $normalized = [regex]::Replace(($raw -replace "\r\n", "`n"), "\n{3,}", "`n`n").Trim()
-  $out = "---`ntype: research`nstatus: cleaned`nsource: `"$(Get-Field $raw 'source')`"`nauthor: `"$(Get-Field $raw 'author')`"`ncaptured: `"$(Get-Date -Format 'yyyy-MM-dd HH:mm')`"`nprimary_area: `"$($topic.Folder.Replace('\','/'))`"`ntags:`n  - type/research`n$tags`n---`n`n# $title`n`n## Source metadata`n- Raw import: [[00-Inbox/Downloaded/$($file.BaseName)]]`n`n## Topic hubs`n$hubs`n`n## Extracted links`n$links`n`n## Original content`n`n$normalized`n"
+  $headings = ([regex]::Matches($normalized, '(?m)^(#{1,6})\s+(.+)$') | ForEach-Object { '- ' + ('  ' * ($_.Groups[1].Value.Length - 1)) + $_.Groups[2].Value.Trim() }) -join "`n"
+  $numberedCount = [regex]::Matches($normalized, '(?m)^\s*\d+[.)]\s+').Count
+  $out = "---`ntype: research`nstatus: cleaned`nsource: `"$(Get-Field $raw 'source')`"`nauthor: `"$(Get-Field $raw 'author')`ncaptured: `"$(Get-Date -Format 'yyyy-MM-dd HH:mm')`"`nprimary_area: `"$($topic.Folder.Replace('\','/'))`"`ntags:`n  - type/research`n$tags`n---`n`n# $title`n`n## Source metadata`n- Raw import: [[00-Inbox/Downloaded/$($file.BaseName)]]`n`n## Topic hubs`n$hubs`n`n## Extracted links`n$links`n`n## Detected structure`n### Headings`n$headings`n`n### Numbered list items`n- $numberedCount`n`n## Original content`n`n$normalized`n"
   if ($WhatIf) { Write-Host "Would create: $target" } else { New-Item -ItemType Directory -Force -Path $targetDir | Out-Null; Set-Content -LiteralPath $target -Value $out -Encoding UTF8; Write-Host "Created: $target" }
 }
