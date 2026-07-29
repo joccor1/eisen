@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\046-frontend-llm-skills-beautiful.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/046-frontend-llm-skills-beautiful.md"
 source_file: "046-frontend-llm-skills-beautiful.md"
 primary_area: "Design/UI-UX"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 046-frontend-llm-skills-beautiful.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\046-frontend-llm-skills-beautiful.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/046-frontend-llm-skills-beautiful.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Design Hub]]

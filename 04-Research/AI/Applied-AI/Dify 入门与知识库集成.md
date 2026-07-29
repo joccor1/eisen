@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\020-ai-capabilities-dify-knowledge-base.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/020-ai-capabilities-dify-knowledge-base.md"
 source_file: "020-ai-capabilities-dify-knowledge-base.md"
 primary_area: "AI/Applied-AI"
 tags:
@@ -18,7 +18,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 020-ai-capabilities-dify-knowledge-base.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\020-ai-capabilities-dify-knowledge-base.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/020-ai-capabilities-dify-knowledge-base.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Agent Hub]]

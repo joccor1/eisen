@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\087-1-computer-fundamentals-transistor-to-cpu.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/087-1-computer-fundamentals-transistor-to-cpu.md"
 source_file: "087-1-computer-fundamentals-transistor-to-cpu.md"
 primary_area: "Software-Engineering/Computer-Fundamentals"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 087-1-computer-fundamentals-transistor-to-cpu.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\087-1-computer-fundamentals-transistor-to-cpu.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/087-1-computer-fundamentals-transistor-to-cpu.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

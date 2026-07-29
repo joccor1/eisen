@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\108-3-browser-and-frontend-javascript-deep-dive.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/108-3-browser-and-frontend-javascript-deep-dive.md"
 source_file: "108-3-browser-and-frontend-javascript-deep-dive.md"
 primary_area: "Software-Engineering/Frontend"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 108-3-browser-and-frontend-javascript-deep-dive.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\108-3-browser-and-frontend-javascript-deep-dive.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/108-3-browser-and-frontend-javascript-deep-dive.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

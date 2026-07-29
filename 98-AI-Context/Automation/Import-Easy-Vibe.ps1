@@ -53,10 +53,11 @@ foreach ($file in $files) {
   $safe = (($title -replace '[\\/:*?"<>|]', '-') -replace '\s+', ' ').Trim(' ','.','-')
   $targetDir = Join-Path $researchRoot $category
   $target = Join-Path $targetDir ($safe + '.md')
+  $sourcePath = $file.FullName.Replace('\', '/')
   $tagLines = (Get-Tags $category | ForEach-Object { "  - $_" }) -join "`n"
   $hub = Get-Hub $category
   $hubLink = if ($hub) { "- [[04-Research/Topic-Hubs/$hub]]" } else { '' }
-  $metadata = "---`ntype: research`nstatus: imported`ncollection: easy-vibe`nsource: `"easy-vibe`"`nsource_path: `"$($file.FullName)`"`nsource_file: `"$($file.Name)`"`nprimary_area: `"$($category.Replace('\','/'))`"`ntags:`n$tagLines`n---`n`n# $title`n`n## Import metadata`n- Collection: Easy Vibe Chinese course`n- Original file: $($file.Name)`n- Original path: $($file.FullName)`n`n## Topic hubs`n$hubLink`n`n## Original content`n`n$raw`n"
+  $metadata = "---`ntype: research`nstatus: imported`ncollection: easy-vibe`nsource: `"easy-vibe`"`nsource_path: `"$sourcePath`"`nsource_file: `"$($file.Name)`"`nprimary_area: `"$($category.Replace('\','/'))`"`ntags:`n$tagLines`n---`n`n# $title`n`n## Import metadata`n- Collection: Easy Vibe Chinese course`n- Original file: $($file.Name)`n- Original path: $sourcePath`n`n## Topic hubs`n$hubLink`n`n## Original content`n`n$raw`n"
   if ($WhatIf) { Write-Host "Would import [$category]: $title" } else { New-Item -ItemType Directory -Force -Path $targetDir | Out-Null; Set-Content -LiteralPath $target -Value $metadata -Encoding UTF8 }
   $rows.Add("| $($file.Name) | $title | $($category.Replace('\','/')) |")
 }

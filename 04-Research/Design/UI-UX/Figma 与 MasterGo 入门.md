@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\044-frontend-figma-mastergo.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/044-frontend-figma-mastergo.md"
 source_file: "044-frontend-figma-mastergo.md"
 primary_area: "Design/UI-UX"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 044-frontend-figma-mastergo.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\044-frontend-figma-mastergo.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/044-frontend-figma-mastergo.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Design Hub]]

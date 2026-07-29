@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\092-2-development-tools-debugging-art-2.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/092-2-development-tools-debugging-art-2.md"
 source_file: "092-2-development-tools-debugging-art-2.md"
 primary_area: "Software-Engineering/Development-Tools"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 092-2-development-tools-debugging-art-2.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\092-2-development-tools-debugging-art-2.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/092-2-development-tools-debugging-art-2.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

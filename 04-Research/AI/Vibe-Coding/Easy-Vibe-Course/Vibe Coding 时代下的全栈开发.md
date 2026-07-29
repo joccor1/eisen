@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\089-1-computer-fundamentals-vibe-coding-fullstack.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/089-1-computer-fundamentals-vibe-coding-fullstack.md"
 source_file: "089-1-computer-fundamentals-vibe-coding-fullstack.md"
 primary_area: "AI/Vibe-Coding/Easy-Vibe-Course"
 tags:
@@ -18,7 +18,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 089-1-computer-fundamentals-vibe-coding-fullstack.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\089-1-computer-fundamentals-vibe-coding-fullstack.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/089-1-computer-fundamentals-vibe-coding-fullstack.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Workflow Hub]]

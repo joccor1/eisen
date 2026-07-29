@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\060-core-skills-mobile-development.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/060-core-skills-mobile-development.md"
 source_file: "060-core-skills-mobile-development.md"
 primary_area: "AI/Agents/Developer-Agents"
 tags:
@@ -20,7 +20,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 060-core-skills-mobile-development.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\060-core-skills-mobile-development.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/060-core-skills-mobile-development.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Agent Hub]]

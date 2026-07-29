@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\027-assignments-modern-landing-page-PRD.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/027-assignments-modern-landing-page-PRD.md"
 source_file: "027-assignments-modern-landing-page-PRD.md"
 primary_area: "Software-Engineering/Project-Examples"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 027-assignments-modern-landing-page-PRD.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\027-assignments-modern-landing-page-PRD.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/027-assignments-modern-landing-page-PRD.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

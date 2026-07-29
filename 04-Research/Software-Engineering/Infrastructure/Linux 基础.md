@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\156-7-infrastructure-and-operations-linux-basics.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/156-7-infrastructure-and-operations-linux-basics.md"
 source_file: "156-7-infrastructure-and-operations-linux-basics.md"
 primary_area: "Software-Engineering/Infrastructure"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 156-7-infrastructure-and-operations-linux-basics.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\156-7-infrastructure-and-operations-linux-basics.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/156-7-infrastructure-and-operations-linux-basics.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

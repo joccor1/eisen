@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\017-integrating-ai-capabilities.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/017-integrating-ai-capabilities.md"
 source_file: "017-integrating-ai-capabilities.md"
 primary_area: "AI/Vibe-Coding/Easy-Vibe-Course"
 tags:
@@ -18,7 +18,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 017-integrating-ai-capabilities.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\017-integrating-ai-capabilities.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/017-integrating-ai-capabilities.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Workflow Hub]]

@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\150-7-infrastructure-and-operations-dns-https.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/150-7-infrastructure-and-operations-dns-https.md"
 source_file: "150-7-infrastructure-and-operations-dns-https.md"
 primary_area: "Software-Engineering/Infrastructure"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 150-7-infrastructure-and-operations-dns-https.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\150-7-infrastructure-and-operations-dns-https.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/150-7-infrastructure-and-operations-dns-https.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\005-appendix-articles-example0-2-vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/005-appendix-articles-example0-2-vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md"
 source_file: "005-appendix-articles-example0-2-vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md"
 primary_area: "AI/Vibe-Coding/Easy-Vibe-Course"
 tags:
@@ -18,7 +18,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 005-appendix-articles-example0-2-vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\005-appendix-articles-example0-2-vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/005-appendix-articles-example0-2-vibe-coding-tools-build-website-with-ai-coding-and-design-agents.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Workflow Hub]]

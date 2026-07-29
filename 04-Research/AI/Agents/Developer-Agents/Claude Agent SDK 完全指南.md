@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\057-core-skills-claude-agent-sdk.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/057-core-skills-claude-agent-sdk.md"
 source_file: "057-core-skills-claude-agent-sdk.md"
 primary_area: "AI/Agents/Developer-Agents"
 tags:
@@ -20,7 +20,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 057-core-skills-claude-agent-sdk.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\057-core-skills-claude-agent-sdk.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/057-core-skills-claude-agent-sdk.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Agent Hub]]

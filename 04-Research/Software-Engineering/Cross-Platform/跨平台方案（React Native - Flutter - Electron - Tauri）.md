@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\125-4-server-and-backend-cross-platform.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/125-4-server-and-backend-cross-platform.md"
 source_file: "125-4-server-and-backend-cross-platform.md"
 primary_area: "Software-Engineering/Cross-Platform"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 125-4-server-and-backend-cross-platform.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\125-4-server-and-backend-cross-platform.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/125-4-server-and-backend-cross-platform.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

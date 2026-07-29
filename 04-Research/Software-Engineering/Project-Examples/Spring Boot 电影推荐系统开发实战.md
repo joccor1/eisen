@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\030-assignments-movie-recommendation-springboot.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/030-assignments-movie-recommendation-springboot.md"
 source_file: "030-assignments-movie-recommendation-springboot.md"
 primary_area: "Software-Engineering/Project-Examples"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 030-assignments-movie-recommendation-springboot.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\030-assignments-movie-recommendation-springboot.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/030-assignments-movie-recommendation-springboot.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]

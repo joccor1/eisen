@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\008-appendix-consumer-scenarios.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/008-appendix-consumer-scenarios.md"
 source_file: "008-appendix-consumer-scenarios.md"
 primary_area: "Business/Product-Management"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 008-appendix-consumer-scenarios.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\008-appendix-consumer-scenarios.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/008-appendix-consumer-scenarios.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Product Management Hub]]

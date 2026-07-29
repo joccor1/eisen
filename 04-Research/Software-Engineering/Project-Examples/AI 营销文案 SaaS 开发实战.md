@@ -3,7 +3,7 @@ type: research
 status: imported
 collection: easy-vibe
 source: "easy-vibe"
-source_path: "C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\022-assignments-copywriting-platform-supabase.md"
+source_path: "C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/022-assignments-copywriting-platform-supabase.md"
 source_file: "022-assignments-copywriting-platform-supabase.md"
 primary_area: "Software-Engineering/Project-Examples"
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Import metadata
 - Collection: Easy Vibe Chinese course
 - Original file: 022-assignments-copywriting-platform-supabase.md
-- Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\022-assignments-copywriting-platform-supabase.md
+- Original path: C:/Users/13075/Desktop/easy-vibe-main/easy-vibe-md/022-assignments-copywriting-platform-supabase.md
 
 ## Topic hubs
 - [[04-Research/Topic-Hubs/Software Engineering Hub]]
