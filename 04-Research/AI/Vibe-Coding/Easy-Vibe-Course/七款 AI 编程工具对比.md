@@ -20,6 +20,9 @@ tags:
 - Original file: 004-appendix-articles-example0-1-vibe-coding-tools-snake-game-tutorial.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\004-appendix-articles-example0-1-vibe-coding-tools-snake-game-tutorial.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Workflow Hub]]
+
 ## Original content
 
 # 七款 AI 编程工具对比

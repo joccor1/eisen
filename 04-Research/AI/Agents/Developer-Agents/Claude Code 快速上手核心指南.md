@@ -22,6 +22,9 @@ tags:
 - Original file: 056-core-skills-basics.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\056-core-skills-basics.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Code 快速上手核心指南

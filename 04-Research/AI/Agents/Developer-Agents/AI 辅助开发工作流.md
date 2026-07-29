@@ -22,6 +22,9 @@ tags:
 - Original file: 064-core-skills-workflow.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\064-core-skills-workflow.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # AI 辅助开发工作流

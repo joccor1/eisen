@@ -22,6 +22,9 @@ tags:
 - Original file: 057-core-skills-claude-agent-sdk.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\057-core-skills-claude-agent-sdk.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Agent SDK 完全指南

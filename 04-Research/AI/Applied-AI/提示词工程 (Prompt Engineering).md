@@ -20,6 +20,9 @@ tags:
 - Original file: 171-8-artificial-intelligence-prompt-engineering.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\171-8-artificial-intelligence-prompt-engineering.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # 提示词工程 (Prompt Engineering)

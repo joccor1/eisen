@@ -19,6 +19,9 @@ tags:
 - Original file: 024-assignments-custom-dify-agent-platform.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\024-assignments-custom-dify-agent-platform.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 类 Dify 智能体平台开发实战

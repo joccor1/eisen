@@ -19,6 +19,9 @@ tags:
 - Original file: 038-backend-database-supabase.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\038-backend-database-supabase.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 从数据库到 Supabase

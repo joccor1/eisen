@@ -19,6 +19,9 @@ tags:
 - Original file: 025-assignments-exam-management-express-PRD.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\025-assignments-exam-management-express-PRD.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # PRD：在线考试与管理系统

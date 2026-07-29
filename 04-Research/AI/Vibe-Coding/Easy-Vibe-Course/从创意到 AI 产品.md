@@ -20,6 +20,9 @@ tags:
 - Original file: 019-learning-map.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\019-learning-map.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Workflow Hub]]
+
 ## Original content
 
 # 从创意到 AI 产品

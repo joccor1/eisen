@@ -19,6 +19,9 @@ tags:
 - Original file: 115-4-server-and-backend-api-design.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\115-4-server-and-backend-api-design.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # API 设计：前后端的"对话协议"

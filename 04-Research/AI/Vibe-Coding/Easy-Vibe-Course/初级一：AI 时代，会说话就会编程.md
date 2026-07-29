@@ -20,6 +20,9 @@ tags:
 - Original file: 002-ai-capabilities-through-games.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\002-ai-capabilities-through-games.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Workflow Hub]]
+
 ## Original content
 
 # 初级一：AI 时代，会说话就会编程

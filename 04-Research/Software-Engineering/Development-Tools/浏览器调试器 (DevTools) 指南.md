@@ -19,6 +19,9 @@ tags:
 - Original file: 092-2-development-tools-debugging-art-2.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\092-2-development-tools-debugging-art-2.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 浏览器调试器 (DevTools) 指南

@@ -20,6 +20,9 @@ tags:
 - Original file: 053-ai-advanced-llamaindex-enterprise-knowledge-base.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\053-ai-advanced-llamaindex-enterprise-knowledge-base.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # 企业级知识库实战：用 LlamaIndex 搭建能落地的 RAG 系统

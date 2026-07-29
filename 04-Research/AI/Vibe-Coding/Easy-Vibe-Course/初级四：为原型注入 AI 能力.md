@@ -20,6 +20,9 @@ tags:
 - Original file: 017-integrating-ai-capabilities.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\017-integrating-ai-capabilities.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Workflow Hub]]
+
 ## Original content
 
 # 初级四：为原型注入 AI 能力

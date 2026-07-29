@@ -20,6 +20,9 @@ tags:
 - Original file: 172-8-artificial-intelligence-rag.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\172-8-artificial-intelligence-rag.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # RAG：检索增强生成

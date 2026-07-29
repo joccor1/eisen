@@ -19,6 +19,9 @@ tags:
 - Original file: 029-assignments-movie-recommendation-springboot-PRD.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\029-assignments-movie-recommendation-springboot-PRD.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # PRD：Spring Boot 电影推荐系统

@@ -19,6 +19,9 @@ tags:
 - Original file: 046-frontend-llm-skills-beautiful.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\046-frontend-llm-skills-beautiful.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Design Hub]]
+
 ## Original content
 
 # 用 LLM 和 Skills 让界面变好看：提示词与插件实战

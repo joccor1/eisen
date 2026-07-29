@@ -22,6 +22,9 @@ tags:
 - Original file: 061-core-skills-skills.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\061-core-skills-skills.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Code Skills 完全指南

@@ -19,6 +19,9 @@ tags:
 - Original file: 099-2-development-tools-ssh-authentication.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\099-2-development-tools-ssh-authentication.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # SSH 与密钥认证

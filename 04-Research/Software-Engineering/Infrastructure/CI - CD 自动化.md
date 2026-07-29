@@ -19,6 +19,9 @@ tags:
 - Original file: 146-7-infrastructure-and-operations-ci-cd.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\146-7-infrastructure-and-operations-ci-cd.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # CI / CD 自动化

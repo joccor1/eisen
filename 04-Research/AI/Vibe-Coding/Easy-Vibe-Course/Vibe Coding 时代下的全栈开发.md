@@ -20,6 +20,9 @@ tags:
 - Original file: 089-1-computer-fundamentals-vibe-coding-fullstack.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\089-1-computer-fundamentals-vibe-coding-fullstack.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Workflow Hub]]
+
 ## Original content
 
 # Vibe Coding 时代下的全栈开发

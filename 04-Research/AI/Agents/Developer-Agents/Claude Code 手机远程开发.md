@@ -22,6 +22,9 @@ tags:
 - Original file: 060-core-skills-mobile-development.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\060-core-skills-mobile-development.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Code 手机远程开发

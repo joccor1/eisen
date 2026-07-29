@@ -20,6 +20,9 @@ tags:
 - Original file: 163-8-artificial-intelligence-ai-protocols.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\163-8-artificial-intelligence-ai-protocols.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # AI Agent 协议（MCP & A2A）

@@ -19,6 +19,9 @@ tags:
 - Original file: 090-2-development-tools-command-line-shell.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\090-2-development-tools-command-line-shell.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 命令行与 Shell 脚本

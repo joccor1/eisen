@@ -20,6 +20,9 @@ tags:
 - Original file: 020-ai-capabilities-dify-knowledge-base.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\020-ai-capabilities-dify-knowledge-base.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Dify 入门与知识库集成

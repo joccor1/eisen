@@ -19,6 +19,9 @@ tags:
 - Original file: 040-backend-modern-cli.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\040-backend-modern-cli.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # CLI AI 编程工具

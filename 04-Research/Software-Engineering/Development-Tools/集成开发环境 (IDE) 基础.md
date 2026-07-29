@@ -19,6 +19,9 @@ tags:
 - Original file: 095-2-development-tools-ide-basics.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\095-2-development-tools-ide-basics.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 集成开发环境 (IDE) 基础

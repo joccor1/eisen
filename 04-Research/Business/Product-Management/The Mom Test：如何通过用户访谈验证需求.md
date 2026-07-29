@@ -19,6 +19,9 @@ tags:
 - Original file: 013-appendix-mom-test.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\013-appendix-mom-test.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Product Management Hub]]
+
 ## Original content
 
 # The Mom Test：如何通过用户访谈验证需求

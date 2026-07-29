@@ -23,3 +23,6 @@ Topic Hubs connect related notes across their one primary folder. Apply a `topic
 | [[SEO Hub]] | distribution, marketing |
 | [[AI Crypto Hub]] | crypto and markets |
 | [[US Stocks Hub]] | public equities and finance |
+| [[Software Engineering Hub]] | programming, systems, infrastructure |
+| [[Product Management Hub]] | discovery, validation, product strategy |
+| [[Design Hub]] | UI/UX, design-to-code, visual systems |

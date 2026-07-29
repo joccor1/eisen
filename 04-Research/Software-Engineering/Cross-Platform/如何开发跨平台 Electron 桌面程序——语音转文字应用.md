@@ -19,6 +19,9 @@ tags:
 - Original file: 068-cross-platform-electron-voice-to-text.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\068-cross-platform-electron-voice-to-text.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 如何开发跨平台 Electron 桌面程序——语音转文字应用

@@ -22,6 +22,9 @@ tags:
 - Original file: 059-core-skills-mcp.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\059-core-skills-mcp.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Code MCP 完全指南

@@ -20,6 +20,9 @@ tags:
 - Original file: 174-8-artificial-intelligence-transformer-attention.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\174-8-artificial-intelligence-transformer-attention.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Transformer 与注意力机制：大模型的核心引擎

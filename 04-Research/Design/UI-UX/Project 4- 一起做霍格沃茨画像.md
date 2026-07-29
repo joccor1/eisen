@@ -19,6 +19,9 @@ tags:
 - Original file: 045-frontend-hogwarts-portraits.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\045-frontend-hogwarts-portraits.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Design Hub]]
+
 ## Original content
 
 # Project 4: 一起做霍格沃茨画像

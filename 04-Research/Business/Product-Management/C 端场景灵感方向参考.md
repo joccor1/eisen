@@ -19,6 +19,9 @@ tags:
 - Original file: 008-appendix-consumer-scenarios.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\008-appendix-consumer-scenarios.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Product Management Hub]]
+
 ## Original content
 
 # C 端场景灵感方向参考

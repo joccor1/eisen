@@ -34,6 +34,15 @@ function Get-Tags($category) {
   else { $tags += 'topic/software-engineering' }
   return $tags | Sort-Object -Unique
 }
+function Get-Hub($category) {
+  if ($category -match '^AI\\Agents') { return 'Agent Hub' }
+  if ($category -match '^AI\\Vibe-Coding') { return 'Workflow Hub' }
+  if ($category -match '^AI\\Applied-AI') { return 'Agent Hub' }
+  if ($category -match '^Business\\Product-Management') { return 'Product Management Hub' }
+  if ($category -match '^Design\\UI-UX') { return 'Design Hub' }
+  if ($category -match '^Software-Engineering') { return 'Software Engineering Hub' }
+  return ''
+}
 if (-not (Test-Path -LiteralPath $SourceRoot)) { throw "Source directory not found: $SourceRoot" }
 $files = Get-ChildItem -LiteralPath $SourceRoot -File -Filter '*.md' | Sort-Object Name
 $rows = [System.Collections.Generic.List[string]]::new()
@@ -45,7 +54,9 @@ foreach ($file in $files) {
   $targetDir = Join-Path $researchRoot $category
   $target = Join-Path $targetDir ($safe + '.md')
   $tagLines = (Get-Tags $category | ForEach-Object { "  - $_" }) -join "`n"
-  $metadata = "---`ntype: research`nstatus: imported`ncollection: easy-vibe`nsource: `"easy-vibe`"`nsource_path: `"$($file.FullName)`"`nsource_file: `"$($file.Name)`"`nprimary_area: `"$($category.Replace('\','/'))`"`ntags:`n$tagLines`n---`n`n# $title`n`n## Import metadata`n- Collection: Easy Vibe Chinese course`n- Original file: $($file.Name)`n- Original path: $($file.FullName)`n`n## Original content`n`n$raw`n"
+  $hub = Get-Hub $category
+  $hubLink = if ($hub) { "- [[04-Research/Topic-Hubs/$hub]]" } else { '' }
+  $metadata = "---`ntype: research`nstatus: imported`ncollection: easy-vibe`nsource: `"easy-vibe`"`nsource_path: `"$($file.FullName)`"`nsource_file: `"$($file.Name)`"`nprimary_area: `"$($category.Replace('\','/'))`"`ntags:`n$tagLines`n---`n`n# $title`n`n## Import metadata`n- Collection: Easy Vibe Chinese course`n- Original file: $($file.Name)`n- Original path: $($file.FullName)`n`n## Topic hubs`n$hubLink`n`n## Original content`n`n$raw`n"
   if ($WhatIf) { Write-Host "Would import [$category]: $title" } else { New-Item -ItemType Directory -Force -Path $targetDir | Out-Null; Set-Content -LiteralPath $target -Value $metadata -Encoding UTF8 }
   $rows.Add("| $($file.Name) | $title | $($category.Replace('\','/')) |")
 }

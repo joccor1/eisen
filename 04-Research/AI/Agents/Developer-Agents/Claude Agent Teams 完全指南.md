@@ -22,6 +22,9 @@ tags:
 - Original file: 055-core-skills-agent-teams.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\055-core-skills-agent-teams.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Agent Teams 完全指南

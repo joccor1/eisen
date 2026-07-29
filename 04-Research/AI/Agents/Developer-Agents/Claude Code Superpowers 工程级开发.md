@@ -22,6 +22,9 @@ tags:
 - Original file: 063-core-skills-superpowers.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\063-core-skills-superpowers.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Claude Code Superpowers 工程级开发

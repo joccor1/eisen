@@ -20,6 +20,9 @@ tags:
 - Original file: 160-8-artificial-intelligence-ai-capability-dictionary.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\160-8-artificial-intelligence-ai-capability-dictionary.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # AI 能力词典

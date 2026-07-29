@@ -19,6 +19,9 @@ tags:
 - Original file: 110-3-browser-and-frontend-realtime-communication.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\110-3-browser-and-frontend-realtime-communication.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 实时通信机制（Polling / SSE / WebSocket）

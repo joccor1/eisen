@@ -19,6 +19,9 @@ tags:
 - Original file: 106-3-browser-and-frontend-graphics-animation.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\106-3-browser-and-frontend-graphics-animation.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 图形与动画（Canvas 与他的朋友们）

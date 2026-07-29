@@ -1,7 +1,7 @@
 ﻿---
 type: collection-index
 collection: easy-vibe
-imported: 2026-07-29 17:24
+imported: 2026-07-29 17:26
 tags: [collection/easy-vibe, topic/vibe-coding]
 ---
 # Easy Vibe Course Index

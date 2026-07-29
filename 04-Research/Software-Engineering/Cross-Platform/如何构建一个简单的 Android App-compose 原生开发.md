@@ -19,6 +19,9 @@ tags:
 - Original file: 065-cross-platform-android-app.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\065-cross-platform-android-app.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 如何构建一个简单的 Android App-compose 原生开发

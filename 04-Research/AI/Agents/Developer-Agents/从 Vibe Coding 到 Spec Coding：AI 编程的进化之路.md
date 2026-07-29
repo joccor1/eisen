@@ -22,6 +22,9 @@ tags:
 - Original file: 062-core-skills-spec-coding.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\062-core-skills-spec-coding.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # 从 Vibe Coding 到 Spec Coding：AI 编程的进化之路

@@ -20,6 +20,9 @@ tags:
 - Original file: 159-8-artificial-intelligence-ai-agents.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\159-8-artificial-intelligence-ai-agents.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # AI Agent 与工具调用

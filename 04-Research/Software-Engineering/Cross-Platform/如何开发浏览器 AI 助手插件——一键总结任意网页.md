@@ -19,6 +19,9 @@ tags:
 - Original file: 066-cross-platform-browser-ai-extension.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\066-cross-platform-browser-ai-extension.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 如何开发浏览器 AI 助手插件——一键总结任意网页

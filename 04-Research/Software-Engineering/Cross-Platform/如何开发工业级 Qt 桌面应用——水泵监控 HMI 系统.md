@@ -19,6 +19,9 @@ tags:
 - Original file: 072-cross-platform-qt-industrial-hmi.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\072-cross-platform-qt-industrial-hmi.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 如何开发工业级 Qt 桌面应用——水泵监控 HMI 系统

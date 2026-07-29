@@ -19,6 +19,9 @@ tags:
 - Original file: 021-assignments-copywriting-platform-supabase-PRD.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\021-assignments-copywriting-platform-supabase-PRD.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # PRD：AI 营销文案 SaaS 平台

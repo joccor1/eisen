@@ -19,6 +19,9 @@ tags:
 - Original file: 042-backend-zeabur-deployment.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\042-backend-zeabur-deployment.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 如何部署 Web 应用

@@ -19,6 +19,9 @@ tags:
 - Original file: 073-cross-platform-vscode-extension.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\073-cross-platform-vscode-extension.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 如何开发 VS Code 插件——打造你的 AI 项目助手

@@ -19,6 +19,9 @@ tags:
 - Original file: 022-assignments-copywriting-platform-supabase.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\022-assignments-copywriting-platform-supabase.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # AI 营销文案 SaaS 开发实战

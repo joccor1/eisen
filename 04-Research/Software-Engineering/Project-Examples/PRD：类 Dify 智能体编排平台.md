@@ -19,6 +19,9 @@ tags:
 - Original file: 023-assignments-custom-dify-agent-platform-PRD.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\023-assignments-custom-dify-agent-platform-PRD.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # PRD：类 Dify 智能体编排平台

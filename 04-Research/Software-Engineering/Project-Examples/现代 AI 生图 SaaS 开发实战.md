@@ -19,6 +19,9 @@ tags:
 - Original file: 028-assignments-modern-landing-page.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\028-assignments-modern-landing-page.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 现代 AI 生图 SaaS 开发实战

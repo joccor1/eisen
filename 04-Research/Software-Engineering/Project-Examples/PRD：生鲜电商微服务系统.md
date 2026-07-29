@@ -19,6 +19,9 @@ tags:
 - Original file: 031-assignments-simple-grocery-microservices-PRD.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\031-assignments-simple-grocery-microservices-PRD.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # PRD：生鲜电商微服务系统

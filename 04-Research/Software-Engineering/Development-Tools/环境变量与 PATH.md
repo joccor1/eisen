@@ -19,6 +19,9 @@ tags:
 - Original file: 093-2-development-tools-environment-path.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\093-2-development-tools-environment-path.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 环境变量与 PATH

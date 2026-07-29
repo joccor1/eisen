@@ -19,6 +19,9 @@ tags:
 - Original file: 011-appendix-industry-scenarios.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\011-appendix-industry-scenarios.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Product Management Hub]]
+
 ## Original content
 
 # B 端产业应用场景方向参考

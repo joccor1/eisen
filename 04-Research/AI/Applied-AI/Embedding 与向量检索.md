@@ -20,6 +20,9 @@ tags:
 - Original file: 165-8-artificial-intelligence-embedding-vector-retrieval.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\165-8-artificial-intelligence-embedding-vector-retrieval.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # Embedding 与向量检索

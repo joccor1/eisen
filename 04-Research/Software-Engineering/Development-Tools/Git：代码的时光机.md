@@ -19,6 +19,9 @@ tags:
 - Original file: 094-2-development-tools-git-version-control.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\094-2-development-tools-git-version-control.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # Git：代码的时光机

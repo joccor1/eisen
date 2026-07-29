@@ -19,6 +19,9 @@ tags:
 - Original file: 125-4-server-and-backend-cross-platform.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\125-4-server-and-backend-cross-platform.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # 跨平台方案（React Native / Flutter / Electron / Tauri）

@@ -19,6 +19,9 @@ tags:
 - Original file: 012-appendix-jobs-to-be-done.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\012-appendix-jobs-to-be-done.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Product Management Hub]]
+
 ## Original content
 
 # 用 Jobs to Be Done 找到用户真正想完成的事

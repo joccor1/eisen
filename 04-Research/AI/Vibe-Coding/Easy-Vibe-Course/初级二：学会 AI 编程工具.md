@@ -20,6 +20,9 @@ tags:
 - Original file: 018-introduction-to-ai-ide.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\018-introduction-to-ai-ide.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Workflow Hub]]
+
 ## Original content
 
 # 初级二：学会 AI 编程工具

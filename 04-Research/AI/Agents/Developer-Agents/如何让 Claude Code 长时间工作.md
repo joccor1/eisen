@@ -22,6 +22,9 @@ tags:
 - Original file: 058-core-skills-long-running-tasks.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\058-core-skills-long-running-tasks.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # 如何让 Claude Code 长时间工作

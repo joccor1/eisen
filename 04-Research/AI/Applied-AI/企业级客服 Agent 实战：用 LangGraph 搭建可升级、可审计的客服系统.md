@@ -20,6 +20,9 @@ tags:
 - Original file: 052-ai-advanced-langgraph-advanced-rag.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\052-ai-advanced-langgraph-advanced-rag.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Agent Hub]]
+
 ## Original content
 
 # 企业级客服 Agent 实战：用 LangGraph 搭建可升级、可审计的客服系统

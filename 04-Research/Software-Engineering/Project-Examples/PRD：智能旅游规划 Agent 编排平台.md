@@ -19,6 +19,9 @@ tags:
 - Original file: 035-assignments-travel-planning-agent-platform-PRD.md
 - Original path: C:\Users\13075\Desktop\easy-vibe-main\easy-vibe-md\035-assignments-travel-planning-agent-platform-PRD.md
 
+## Topic hubs
+- [[04-Research/Topic-Hubs/Software Engineering Hub]]
+
 ## Original content
 
 # PRD：智能旅游规划 Agent 编排平台
