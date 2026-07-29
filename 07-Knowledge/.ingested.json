@@ -1,0 +1,26 @@
+﻿{
+    "version":  1,
+    "notes":  {
+                  "04-Research/AI/Vibe-Coding/Easy-Vibe-Course/项目介绍.md":  {
+                                                                              "last_ingested":  "2026-07-29",
+                                                                              "times_ingested":  2,
+                                                                              "concepts":  [
+                                                                                               "07-Knowledge/Concepts/Vibe Coding.md"
+                                                                                           ]
+                                                                          },
+                  "04-Research/AI/Applied-AI/AI Agent 与工具调用.md":  {
+                                                                      "last_ingested":  "2026-07-29",
+                                                                      "times_ingested":  1,
+                                                                      "concepts":  [
+                                                                                       "07-Knowledge/Concepts/AI Agent Development.md"
+                                                                                   ]
+                                                                  },
+                  "04-Research/AI/Workflows/想一小时上手obsidian？这一篇就够了。【玩转Obsidian的保姆级教程】.md":  {
+                                                                                               "last_ingested":  "2026-07-29",
+                                                                                               "times_ingested":  1,
+                                                                                               "concepts":  [
+                                                                                                                "07-Knowledge/Concepts/Knowledge Compilation.md"
+                                                                                                            ]
+                                                                                           }
+              }
+}

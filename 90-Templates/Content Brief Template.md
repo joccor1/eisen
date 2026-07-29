@@ -6,6 +6,7 @@ audience:
 goal:
 topics: []
 research: []
+knowledge: []
 tags: [type/content]
 ---
 
@@ -16,6 +17,8 @@ tags: [type/content]
 ## Audience and promise
 
 ## Evidence
+
+## Compiled knowledge
 
 ## Format
 
