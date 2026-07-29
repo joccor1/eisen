@@ -12,6 +12,13 @@ function Get-Field($text, $name) {
   if ($text -match $pattern) { return $Matches[1].Trim() }
   return ''
 }
+function Get-CleanTitle([string]$Title) {
+  $clean = $Title.Trim()
+  # Strip common capture prefixes without changing the source title itself.
+  $clean = $clean -replace '^(?:\d{4}[-_.]?\d{1,2}[-_.]?\d{1,2})(?:[ T_.-]+\d{1,2}[:._-]\d{2}(?::\d{2})?)?\s*[-_.:|]+\s*', ''
+  $clean = $clean -replace '^\s*(?:\[?\d{1,4}\]?|No\.\s*\d+)\s*[-_.:|]+\s*', ''
+  return ($clean -replace '^[\s_.:|\-]+|[\s_.:|\-]+$', '')
+}
 function Get-Topic($text) {
   if ($text -match '(?i)\b(obsidian|knowledge base|markdown vault)\b') { return @{Folder='AI\Workflows';Tags=@('topic/obsidian','topic/workflow');Hubs=@('Obsidian Hub','Workflow Hub')} }
   if ($text -match '(?i)\b(codex|openai codex)\b') { return @{Folder='AI\Vibe-Coding';Tags=@('topic/codex','topic/agent');Hubs=@('Codex Hub','Agent Hub')} }
@@ -35,10 +42,18 @@ foreach ($file in $files) {
   $title = Get-Field $raw 'title'
   if (-not $title -and $raw -match '(?m)^#\s+(.+?)\s*$') { $title = $Matches[1].Trim() }
   if (-not $title) { $title = $file.BaseName }
+  $title = Get-CleanTitle $title
   $topic = Get-Topic ($title + "`n" + $raw)
   $safe = ($title -replace '[\\/:*?"<>|]', '-' -replace '\s+', ' ').Trim(' ','.')
   $targetDir = Join-Path $research $topic.Folder
   $target = Join-Path $targetDir ($safe + '.md')
+  $sourceUrl = Get-Field $raw 'source'
+  if ($sourceUrl) {
+    $existing = Get-ChildItem -LiteralPath $research -Recurse -File -Filter '*.md' | Where-Object {
+      ([IO.File]::ReadAllText($_.FullName, [Text.UTF8Encoding]::new($false))) -match ('(?m)^source:\s*["'']?' + [regex]::Escape($sourceUrl))
+    } | Select-Object -First 1
+    if ($existing) { Write-Host "Already collected: $($existing.FullName)"; continue }
+  }
   $n = 2; while (Test-Path -LiteralPath $target) { $target = Join-Path $targetDir ($safe + " ($n).md"); $n++ }
   $tags = ($topic.Tags | ForEach-Object { "  - $_" }) -join "`n"
   $hubs = ($topic.Hubs | ForEach-Object { "- [[04-Research/Topic-Hubs/$_]]" }) -join "`n"
